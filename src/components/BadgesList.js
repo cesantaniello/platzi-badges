@@ -36,7 +36,7 @@ class BadgesList extends React.Component {
             Create new badge
           </Link>
         </div>
-      )
+      );
     }
 
     return (
