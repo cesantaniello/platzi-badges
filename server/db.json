@@ -22,7 +22,7 @@
       "id": "f1183526-aff1-46da-8bfb-976563c6f696",
       "firstName": "Karlee",
       "lastName": "Satterfield",
-      "email": "Christian31@gmail.com",
+      "email": "KarleeSatterfield@example.com",
       "jobTitle": "Chief Accounts Agent",
       "twitter": "KarleeSatterfield32692-9732",
       "avatarUrl": "https://www.gravatar.com/avatar/c2d679f9b44e1869548ab95aac18b7c9?d=identicon"
@@ -54,28 +54,20 @@
       "id": "DbY1vXd"
     },
     {
-      "firstName": "Carlos",
-      "lastName": "Santaniello",
-      "email": "carlos.e.santaniello@gmail.com",
-      "jobTitle": "Frontend Engineer",
-      "twitter": "@cesantaniello",
-      "id": "22NBF-s"
+      "firstName": "Carolynn",
+      "lastName": "Kaufman",
+      "email": "carolynn@example.com",
+      "jobTitle": "Lawyer",
+      "twitter": "sparragus",
+      "id": "7medAJ4"
     },
     {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "jobTitle": "",
-      "twitter": "",
-      "id": "W8q7dvd"
-    },
-    {
-      "firstName": "Eric",
-      "lastName": "Peñalver",
-      "email": "",
-      "jobTitle": "",
-      "twitter": "",
-      "id": "rEiOoOl"
+      "firstName": "Snoopy",
+      "lastName": "Kaufman",
+      "email": "snoopy@example.com",
+      "jobTitle": "Super Dog",
+      "twitter": "snoopysuperdog",
+      "id": "Tab9I7W"
     }
   ]
 }
