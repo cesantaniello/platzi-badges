@@ -52,6 +52,30 @@
       "jobTitle": "Frontend Engineer",
       "twitter": "sparragus",
       "id": "DbY1vXd"
+    },
+    {
+      "firstName": "Carlos",
+      "lastName": "Santaniello",
+      "email": "carlos.e.santaniello@gmail.com",
+      "jobTitle": "Frontend Engineer",
+      "twitter": "@cesantaniello",
+      "id": "22NBF-s"
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "jobTitle": "",
+      "twitter": "",
+      "id": "W8q7dvd"
+    },
+    {
+      "firstName": "Eric",
+      "lastName": "Peñalver",
+      "email": "",
+      "jobTitle": "",
+      "twitter": "",
+      "id": "rEiOoOl"
     }
   ]
 }
