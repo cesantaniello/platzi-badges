@@ -6,8 +6,8 @@ import confLogo from '../images/badge-header.svg';
 import BadgesList from '../components/BadgesList';
 import PageLoading from '../components/PageLoading';
 import PageError from '../components/PageError';
-import api from '../api';
 import MiniLoader from '../components/MiniLoader';
+import api from '../api';
 
 class Badges extends React.Component {
   state = {
@@ -18,10 +18,11 @@ class Badges extends React.Component {
 
   componentDidMount() {
     this.fetchData();
+
     this.intervalId = setInterval(this.fetchData, 5000);
   }
 
-  componentWillUnmount(){
+  componentWillUnmount() {
     clearInterval(this.intervalId);
   }
 
